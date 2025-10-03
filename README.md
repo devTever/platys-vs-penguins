@@ -4,6 +4,10 @@
 
 El **Game Design Document (GDD)** es el documento principal y esencial que recopila toda la información relevante sobre un videojuego, sirviendo como hoja de ruta que establece los objetivos y define el concepto para el equipo de desarrollo. Este apartado es el primer boceto para entender cómo vamos a desarrollar el proyecto.
 
+<p align="center">
+  <img width="40%" src="img/platys_vs_penguins.png">
+</p>
+
 ---
 
 ### I. 📝​ Introducción y Concepto
@@ -22,7 +26,9 @@ El juego tiene una tensión entre facciones a través de su metáfora principal:
 
 - **Ornitorrincos**: Representan la diversidad, la creatividad y la autenticidad.  
 - **Pingüinos**: Representan la uniformidad, la imposición y la frialdad.  
-- **Coco de la Sabiduría**: Representa el poder de la imaginación, algo que siempre merece la pena defender.
+- **Coco de la Sabiduría**: Representa el poder de la imaginación, algo que siempre merece la pena defender. (Ej: poción mágica Astérix y Obélix)
+
+<img src="img/01-concepto.png">
 
 ---
 
@@ -119,7 +125,15 @@ El juego se divide en **Capítulos** que progresan en dificultad y complejidad d
 | **Capítulo 3** | Volcán Dormido / Volcán Ardiente      | Introducción del fuego y estructuras volcánicas. Escenario con erupciones que alteran la física. | Pingüino Catapulta |
 | **Capítulo Final** | Fortaleza de Hielo / Glacial      | Batalla final contra el General Pingüino en su castillo helado. | Pingüino General y todos los tipos |
 
-Cada capítulo culmina con un **jefe** que presenta un reto especial.
+<p align="center">
+  <br>
+  Cada capítulo culmina con un <b>jefe</b> que presenta un reto especial.<br><br>
+  <img width="30%" src="img/tever_vs_penguin.jpg"><br><br>
+  <i>Foto del autor del proyecto defendiéndose de un pingüino</i><br>
+</p>
+
+
+Tu **misión** es no permitir que los pingüinos te roben tu Coco de la Sabiduría, es tu conocimiento, es tu creatividad y la debes defender a toda costa, sin él perderás todo.
 
 ---
 
