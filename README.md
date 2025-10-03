@@ -39,6 +39,10 @@ En la tranquila **Isla Ornitopía**, los ornitorrincos viven en armonía gracias
 
 Los pingüinos, provenientes del **Abismo Gélido**, son fríos y ambiciosos, y su objetivo es robar el Coco para extinguir la chispa creativa de los ornitorrincos.  
 
+<p align="center">
+  <img width="60%" src="img/boca-pinguino.png">
+</p>
+
 La misión del jugador es **defender este Coco de los ataques invasores**.  
 
 La historia será progresiva, mostrando cómo los pingüinos mejoran su organización para el robo del Coco.
@@ -63,6 +67,8 @@ Son criaturas versátiles, adaptables y auténticas: inventores, artistas y expl
   - **Platy Explosivo**: Libera burbujas de energía al impactar.  
   - **Platy Líquido**: Se divide en varias gotas y ataca múltiples puntos.  
 
+<img src="img/ornitorrincos.png">
+
 #### 2. Pingüinos (Los villanos / IA enemiga)
 Son astutos, fríos y ambiciosos. Se distinguen por su armamento, a pesar de ser muy parecidos entre sí.
 
@@ -76,6 +82,8 @@ Son astutos, fríos y ambiciosos. Se distinguen por su armamento, a pesar de ser
   - **Pingüino Escudo**: Resistente, difícil de derrotar.  
   - **Pingüino Catapulta**: Lanza bolas de nieve gigantes.  
   - **Pingüino General**: El jefe de nivel, muy astuto con habilidades especiales.  
+
+<img src="img/pinguinos.png">
 
 ---
 
