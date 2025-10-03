@@ -96,7 +96,9 @@ La dinámica principal se basa en **turnos alternos**:
    La IA responde lanzando proyectiles de hielo, bolas de nieve o catapultas improvisadas hacia el Coco o contra los ornitorrincos.  
 
 3. **Rondas Sucesivas**  
-   Los ataques se alternan hasta que se cumpla la condición de victoria o derrota.  
+   Los ataques se alternan hasta que se cumpla la condición de victoria o derrota.
+
+<img src="img/02-boceto-escena.png">
 
 #### Elementos Estratégicos
 - **Mecánica de Lanzamiento**: Selección de un ornitorrinco con habilidades especiales y lanzamiento para impactar estructuras de hielo y metal.  
